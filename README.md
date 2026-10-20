@@ -48,7 +48,7 @@ course/
     support/
 ```
 
-Open **BoBa_CPP_Classroom** in VS Code and open its terminal.
+Open **BoBa_CPP** in VS Code and open its terminal.
 Set these two paths once per terminal session; change the names if yours differ:
 
 ```bash
