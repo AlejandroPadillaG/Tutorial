@@ -4,7 +4,7 @@ Open this folder in **Visual Studio Code**. Work through the four `.cpp` files.
 After editing a file, compile it and run it again in **Terminal → New Terminal**.
 All calculations, CSV loading, pictures, and timings are produced by C++.
 
-## What students need
+## What's needed
 
 1. **Visual Studio Code**, with Microsoft's **C/C++** extension.
 2. A **C++20 compiler**: Clang on macOS, or a recent GCC/Clang on Linux.
